@@ -1,4 +1,4 @@
-# FatkurMods - React.js Routing Project
+# React.js Routing Project
 
 Repositori ini berisi **Tugas 2** untuk mata kuliah pengembangan web menggunakan **React.js**. Proyek ini mendemonstrasikan implementasi sistem routing pada aplikasi web.
 
